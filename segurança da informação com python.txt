@@ -1,0 +1,24 @@
+Segurança da informação com Python
+	Introdução e conceitos de segurança da informação e ping
+		o que é segurança da informação
+			Pilares da segurança da informação
+				Integridade
+					Principio que visa proteger a informação de alterações indevidas
+				Confidencialidade
+					Principio que visa manter uma informação cofidencial
+				Disponibilidade
+					Principio que visa garantir que um recurso e/ou informação esteja disponivel
+				Identificação
+					Principio que visa identificar uma entidade
+				Autenticação
+					Principio wue visa verificar a entidade e suas credenciais
+				Autorização
+					Principio que visa autorizar a entidade dentro de um sistema
+				Não Repudio
+					Principio que visa evitar que uma entidade negue suas ações em um sistema
+		Ping
+			Icmp
+				O ICMP é um protocolo integrente do protocolo IP utilizado para fornecer relatorios de erros á fonte original.
+			O que é ping
+				É uma ferramenta que se encontra na maioria dos SOs, que ultiliza o protocolo ICMP para verificar se determinado IP está ativo.
+			
